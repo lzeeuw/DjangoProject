@@ -1,2 +1,0 @@
-psql django_chat_project django
-password: password
